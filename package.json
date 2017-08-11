@@ -1,0 +1,18 @@
+{
+  "name": "show-colors",
+  "version": "1.0.0",
+  "description": "A little command to show ANSI colors",
+  "main": "index.js",
+  "bin": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "color",
+    "colors",
+    "ansi",
+    "terminal"
+  ],
+  "author": "Brian Mock <brian@mockbrian.com>",
+  "license": "MIT"
+}
