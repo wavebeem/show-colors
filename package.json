@@ -7,12 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "color",
-    "colors",
-    "ansi",
-    "terminal"
-  ],
+  "keywords": ["color", "colors", "ansi", "terminal"],
   "author": "Brian Mock <brian@mockbrian.com>",
   "license": "MIT"
 }
